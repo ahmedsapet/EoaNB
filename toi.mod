@@ -1,3 +1,5 @@
+name="End of a New Beginning - Official Version"
+path="mod/toi/"
 version="0.2.5 Pax Orientalis"
 tags={
 	"Alternative History"
@@ -10,7 +12,10 @@ tags={
 	"National Focuses"
 	"Technologies"
 }
+<<<<<<< Updated upstream
 name="End of a New Beginning - Github Version"
+=======
+>>>>>>> Stashed changes
 picture="thumbnail.png"
 replace_path="common/ai_equipment"
 replace_path="common/ai_templates"
@@ -31,5 +36,9 @@ replace_path="history/countries"
 replace_path="history/states"
 replace_path="map/supplyareas"
 supported_version="1.10.*"
+<<<<<<< Updated upstream
 path="mod/toi"
+=======
+
+>>>>>>> Stashed changes
 remote_file_id="2114093692"
